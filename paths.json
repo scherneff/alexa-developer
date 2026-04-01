@@ -1,22 +1,22 @@
 {
   "mappings": [
-    "/content/wknd-universal/language-masters/en:/",
-    "/content/wknd-universal/language-masters/en/:/en/",
-    "/content/wknd-universal/language-masters/fr/:/fr/",
-    "/content/wknd-universal/language-masters/fr:/fr",
-    "/content/wknd-universal/language-masters/es/:/es/",
-    "/content/wknd-universal/language-masters/es:/es",
-    "/content/wknd-universal/language-masters/ja/:/ja/",
-    "/content/wknd-universal/language-masters/ja:/ja",
-    "/content/wknd-universal/language-masters/de/:/de/",
-    "/content/wknd-universal/language-masters/de:/de",
-    "/content/wknd-universal/configuration:/.helix/config.json",
-    "/content/wknd-universal/metadata:/metadata.json",
-    "/content/wknd-universal/redirects:/redirects.json",
-    "/content/wknd-universal/placeholders:/placeholders.json"
+    "/content/alexa-developer/language-masters/en:/",
+    "/content/alexa-developer/language-masters/en/:/en/",
+    "/content/alexa-developer/language-masters/fr/:/fr/",
+    "/content/alexa-developer/language-masters/fr:/fr",
+    "/content/alexa-developer/language-masters/es/:/es/",
+    "/content/alexa-developer/language-masters/es:/es",
+    "/content/alexa-developer/language-masters/ja/:/ja/",
+    "/content/alexa-developer/language-masters/ja:/ja",
+    "/content/alexa-developer/language-masters/de/:/de/",
+    "/content/alexa-developer/language-masters/de:/de",
+    "/content/alexa-developer/configuration:/.helix/config.json",
+    "/content/alexa-developer/metadata:/metadata.json",
+    "/content/alexa-developer/redirects:/redirects.json",
+    "/content/alexa-developer/placeholders:/placeholders.json"
   ],
   "includes": [
-    "/content/wknd-universal/",
-    "/content/dam/wknd-universal/"
+    "/content/alexa-developer/",
+    "/content/dam/alexa-developer/"
   ]
 }
