@@ -4634,7 +4634,12 @@
  }
  
 
-
+/* Amazon Ember Fonts */
+ @font-face {
+  font-family: 'Amazon Ember';
+  font-display: swap;
+  src: url('../fonts/AmazonEmberRegular.woff') format('woff');
+}
  /* Adobe Clean Fonts */
  @font-face {
   font-family: 'Adobe Clean';
